@@ -1,0 +1,70 @@
+@media (max-width: 1200px) { 
+    .header-right ul li a {
+        padding: 9px 3px;
+    }
+
+}
+
+@media (max-width: 750px) { 
+    
+    .header-left {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 530px) { 
+    
+    .fiexd-width {
+     
+        max-width: 100%;
+    }
+    .banner {
+
+        height: 388px;
+      
+    }
+    .banner h2 {
+        margin-top: 65px;
+        font-size: 26px;
+    }
+
+    .logo-div {
+        width: 100%;
+        padding: 20px;
+    }
+    .about h2 {
+        font-size: 28px;
+    }
+    .image-left {
+        width: 94%;
+        padding: 9px;
+    }
+    .image-right {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    .main-contact {
+        margin-top: 100%;
+        background-color: #f6f6f6;
+        text-align: center;
+    }
+    .content ul li a {
+ 
+        padding: 6px 8px;
+       
+    }
+
+    .footer p {
+        color: white;
+        padding: 13px 6px;
+    }
+}
